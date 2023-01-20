@@ -19,4 +19,6 @@ const writeJSON = () => {
     );
 };
 
-module.exports = { accounts, users, writeJSON }
+module.exports = { accounts, 
+    users, 
+    writeJSON }
